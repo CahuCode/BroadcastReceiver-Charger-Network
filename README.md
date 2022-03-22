@@ -4,7 +4,7 @@ This app uses 2 ways to implement BroadcastReceiver in your projects, for this d
 
 Esta app utiliza 2 maneras para implementar BroadcastReceiver en sus proyectos, para esta demostración se emplea el Intent para detección de carga en su dispositivo (ACTION_POWER_CONNECTED) y la detección de conexión a internet (CONNECTIVITY_ACTION).
 
-# Implementacion.
+# Implementación.
 
 ![Image text](https://github.com/CahuCode/BroadcastReceiver-Charger-Network/blob/93a5cce94c1e7a8d9632dc66c72d8abe190aa13f/app/src/main/res/drawable-v24/uno.jpg)
 
